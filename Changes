@@ -1,0 +1,6 @@
+Revision history for Perl extension MirrorRepos.
+
+0.01  Wed Jul 21 18:49:06 2021
+	- original version; created by h2xs 1.23 with options
+		-AX -n MirrorRepos
+
