@@ -11,6 +11,8 @@ use warnings;
 use Test::More tests => 1;
 BEGIN { use_ok('MirrorRepos') };
 
+# Added a comment for testing purposes
+
 #########################
 
 # Insert your test code below, the Test::More module is use()ed here so read
